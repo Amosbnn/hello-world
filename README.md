@@ -1,2 +1,6 @@
 # hello-world
-test repository
+test repo
+
+editing the file before committing
+
+end of first editiing
